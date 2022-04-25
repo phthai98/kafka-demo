@@ -1,0 +1,32 @@
+0
+30
+__transaction_state 31 0
+__transaction_state 7 0
+transaction-topic-2 1 4
+__transaction_state 46 0
+valid-invoice-topic 0 0
+__transaction_state 49 0
+transaction-topic-2 0 4
+transaction-topic-2 2 0
+__transaction_state 28 0
+__transaction_state 13 0
+invoice-topic 1 0
+__transaction_state 37 0
+transaction-topic-1 1 3
+transaction-topic-1 0 2
+transaction-topic-1 4 3
+__transaction_state 10 0
+__transaction_state 22 0
+__transaction_state 43 0
+__transaction_state 4 0
+__transaction_state 25 0
+transaction-topic-2 4 2
+transaction-topic-1 3 2
+__transaction_state 16 0
+__transaction_state 40 0
+invoice-topic 0 0
+transaction-topic-2 3 0
+__transaction_state 19 0
+__transaction_state 1 0
+__transaction_state 34 0
+transaction-topic-1 2 6
